@@ -48,7 +48,7 @@ Identify trends across time and categories.
 
 🛠️ Tools & Libraries
 
-Python 3.x
+Python 
 
 Jupyter Notebook
 
@@ -95,5 +95,6 @@ Visual exploration of car features
 This assignment was completed as per the academic honesty policy. No unfair means were used.
 
 Submitted by: Mandavi Singh 
+
 Program: Summer Analytics 2025
 
